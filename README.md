@@ -29,9 +29,9 @@ Once the user clicks **YES**, the website celebrates with confetti, floating hea
 
 Add a screenshot of your project here.
 
-```md
+
 ![Project Preview](screenshot.png)
-```
+
 
 ---
 
