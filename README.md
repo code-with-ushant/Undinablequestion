@@ -27,11 +27,7 @@ Once the user clicks **YES**, the website celebrates with confetti, floating hea
 
 ## 📸 Preview
 
-Add a screenshot of your project here.
-
-
-![Project Preview](screenshot.png)
-
+<img src="screenshot.png" alt="Project Preview" width="400">
 
 ---
 
@@ -45,6 +41,7 @@ Add a screenshot of your project here.
 ---
 
 ## 🚀 Getting Started
+![Website link to share with friends](https://code-with-ushant.github.io/Undinablequestion/)
 
 ### 1. Clone the Repository
 
