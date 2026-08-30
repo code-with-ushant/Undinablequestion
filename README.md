@@ -41,7 +41,8 @@ Once the user clicks **YES**, the website celebrates with confetti, floating hea
 ---
 
 ## 🚀 Getting Started
-![Website link to share with friends](https://code-with-ushant.github.io/Undinablequestion/)
+### 🌐 Website link to share with friends
+![👆](https://code-with-ushant.github.io/Undinablequestion/)
 
 ### 1. Clone the Repository
 
